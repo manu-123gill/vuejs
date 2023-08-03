@@ -5,27 +5,32 @@
  
   v16.15.0
 
-
+## Check npm
 npm --version
 
  8.5.5
+ 
+## Install Cli
 
-#  sudo npm install -g @vue/cli
+ sudo npm install -g @vue/cli
+ 
+## check cli 
 
-# vue --version
+vue --version
+
 @vue/cli 5.0.8
 
 ## vue.js is installed now I start to create project
 
-# cd vue-project/
+ cd vue-project/
 
-# vue create hello-world
+ vue create hello-world
 
-# cd hello-world
+cd hello-world
 
-# Yarn serve
+ Yarn serve
 
- DONE  Compiled successfully in 1612ms                                                                                                                                                          12:31:17 pm
+ ## DONE  Compiled successfully in 1612ms                                                                                                                                                          12:31:17 pm
 
 
   App running at:
