@@ -29,8 +29,8 @@ vue --version
 cd hello-world
 
  Yarn serve
-
- ## DONE  Compiled successfully in 1612ms                                                                                                                                                          12:31:17 pm
+ 
+## DONE  Compiled successfully in 1612ms                                                                                                                                                          12:31:17 pm
 
 
   App running at:
