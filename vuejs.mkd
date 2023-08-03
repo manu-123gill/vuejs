@@ -1,11 +1,11 @@
 # vue.js Tutorial Without Frappe
 
  node --version
-v16.15.0
+  v16.15.0
 
 
-#  npm --version
-8.5.5
+npm --version
+ 8.5.5
 
 #  sudo npm install -g @vue/cli
 
